@@ -1,0 +1,193 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header stle */
+/* .header-class{
+    width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+} */
+.about{
+    width: 1520px;
+    height: 630px;
+    flex-shrink: 0;
+    background-color: #E554731A;
+}
+.bannar{
+    display: flex;
+    align-items: center;
+
+}
+.profile-greetion{
+font-size: 45px;
+    margin-bottom: 0;
+}
+.profile-picture {
+    width: 500px;
+    margin-left: 150px;
+}
+.bannar-container{
+   font-size: larger;
+   margin-left: 80px;
+    
+}
+.btn-primary {
+    border-radius: 8px;
+    background: #FD6E0A;
+    padding: 15px 35px;
+    border: 0;
+}
+
+.hot-banner{
+    display: flex;
+    background-color: #E554730D;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+.banner-write{
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 100px;
+}
+.writen-dev{
+    
+    justify-content: center;
+}
+.image-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#fist-img{
+    margin-left: 100px;
+}
+.instragram{
+    text-align: center;
+    margin: 0;
+    bottom: 0;
+   font-size: larger;
+}
+.intragram-section{
+    width: 1200px;
+    height: 500px;
+    display: flex;
+   /* justify-content: space-around; */
+   /* margin-left: 20px; */
+   padding-left: 5px;
+}
+.box-image{
+    display: flex;
+    height: 300px;
+    width: 400px;
+    margin-left: 200px;
+    padding: 50px;
+}
+.box-1{
+    height: 150px;
+    width: 100px;
+}
+.box-2{
+    height: 150px;
+    width: 100px;
+}
+.box-3{
+    height: 150px;
+    width: 100px;
+}
+.box-4{
+    height: 150px;
+    width: 100px;
+    
+}
+/* footer */
+.flower-div{
+
+background-color: black;
+color: white;
+
+}
+.flower-shop{
+
+}
+.reders{
+    color: red;
+    padding-top: 50px;
+    
+}
+
+.card-section{
+    width: 1200px;
+    height: 450px;
+    
+    background-image: url(../image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+ 
+}
+.some-text{
+    text-align: center;
+    
+}
+.input-field{
+    text-align: center;
+}
+.get-into{
+    justify-content: center;
+    text-align: center;
+    padding-top: 150px;
+}
+.footer-div{
+    height: 300px;
+    width: 1500px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.foower-shop{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.card{ margin-left: 350px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.footer-main{ 
+         text-align: center;
+        justify-content: center;
+        align-items: center;
+      
+    
+}
+.input{
+    margin-top: 50px;
+    height: 50px;
+    width: 400px;
+    margin-bottom: 25px;
+    border: 0px;
+}
+/* extra section */
+.extra-section{
+    height: 1200px;
+    height: 450px;
+    background-color: #c1788a0d;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    
+}
+.extra-one{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.extra-tow{
+    margin-top: 50px;
+    font-size: 25px;
+}
